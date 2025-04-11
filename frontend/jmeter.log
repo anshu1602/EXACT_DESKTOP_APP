@@ -1,0 +1,176 @@
+2025-04-07 08:27:54,736 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-07 08:27:54,737 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-07 08:27:54,737 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-07 08:27:54,737 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-07 08:27:54,738 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-07 08:27:54,739 - INFO - Use pytorch device_name: cpu
+2025-04-07 08:27:54,740 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-07 08:30:54,769 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-07 08:30:54,769 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-07 08:30:54,770 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-07 08:30:54,770 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-07 08:30:54,770 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-07 08:30:54,772 - INFO - Use pytorch device_name: cpu
+2025-04-07 08:30:54,772 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-07 08:44:50,658 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-07 08:44:50,659 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-07 08:44:50,659 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-07 08:44:50,659 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-07 08:44:50,660 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-07 08:44:50,661 - INFO - Use pytorch device_name: cpu
+2025-04-07 08:44:50,661 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-07 08:46:23,147 - INFO - Use pytorch device_name: cpu
+2025-04-07 08:46:23,147 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-07 08:47:21,692 - INFO - Use pytorch device_name: cpu
+2025-04-07 08:47:21,692 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-07 08:47:25,939 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-07 08:47:25,940 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-07 08:47:25,941 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-07 08:47:25,943 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-07 08:47:25,945 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-07 08:51:11,112 - INFO - Use pytorch device_name: cpu
+2025-04-07 08:51:11,112 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-07 08:51:15,622 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-07 08:51:15,623 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-07 08:51:15,625 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-07 08:51:15,625 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-07 08:51:15,626 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-07 08:52:12,686 - INFO - Use pytorch device_name: cpu
+2025-04-07 08:52:12,686 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-07 08:52:19,489 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-07 08:52:19,489 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-07 08:52:19,490 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-07 08:52:19,490 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-07 08:52:19,491 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-07 08:52:19,496 - INFO - Starting Flask app on port 5000
+2025-04-07 08:52:19,507 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 08:52:19,508 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 09:41:46,609 - INFO - Use pytorch device_name: cpu
+2025-04-07 09:41:46,624 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-07 09:42:08,517 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-07 09:42:08,518 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-07 09:42:08,518 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-07 09:42:08,519 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-07 09:42:08,519 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-07 09:42:08,526 - INFO - Starting Flask app on port 5000
+2025-04-07 09:42:08,573 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 09:42:08,573 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-07 16:51:38,901 - INFO - Use pytorch device_name: cpu
+2025-04-07 16:51:38,920 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-07 16:51:45,157 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-07 16:51:45,157 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-07 16:51:45,158 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-07 16:51:45,158 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-07 16:51:45,158 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-07 16:51:45,161 - INFO - Starting Flask app on port 5000
+2025-04-07 16:51:45,182 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-07 16:51:45,182 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 08:46:19,551 - INFO - Use pytorch device_name: cpu
+2025-04-08 08:46:19,632 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-08 08:46:25,422 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-08 08:46:25,422 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-08 08:46:25,423 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-08 08:46:25,424 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-08 08:46:25,425 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-08 08:46:25,432 - INFO - Starting Flask app on port 5000
+2025-04-08 08:46:25,460 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 08:46:25,460 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 08:48:21,107 - INFO - Use pytorch device_name: cpu
+2025-04-08 08:48:21,224 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-08 08:48:25,290 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-08 08:48:25,290 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-08 08:48:25,291 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-08 08:48:25,291 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-08 08:48:25,291 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-08 08:48:25,294 - INFO - Starting Flask app on port 5000
+2025-04-08 08:48:25,320 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 08:48:25,320 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 09:04:13,782 - INFO - Directory exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-08 09:04:13,808 - INFO - Directory exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-08 09:04:13,808 - INFO - Directory exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-08 09:04:13,808 - INFO - Directory exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-08 09:04:13,808 - INFO - Directory exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-08 09:04:13,811 - INFO - Use pytorch device_name: cpu
+2025-04-08 09:04:13,811 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-08 09:04:18,705 - ERROR - File not found: samplers.json. Skipping loading this file.
+2025-04-08 09:04:18,705 - ERROR - File not found: controllers.json. Skipping loading this file.
+2025-04-08 09:04:18,705 - ERROR - File not found: timers.json. Skipping loading this file.
+2025-04-08 09:04:18,705 - ERROR - File not found: listeners.json. Skipping loading this file.
+2025-04-08 09:04:18,711 - INFO - Starting Flask app on port 5000
+2025-04-08 09:04:18,738 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.47.152:5000
+2025-04-08 09:04:18,738 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 09:05:51,123 - INFO - Use pytorch device_name: cpu
+2025-04-08 09:05:51,123 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-08 09:05:55,568 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-08 09:05:55,569 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-08 09:05:55,569 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-08 09:05:55,569 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-08 09:05:55,570 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-08 09:05:55,572 - INFO - Starting Flask app on port 5000
+2025-04-08 09:05:55,596 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 09:05:55,596 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 15:51:45,761 - INFO - Use pytorch device_name: cpu
+2025-04-08 15:51:45,801 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-08 15:52:05,463 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-08 15:52:05,464 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-08 15:52:05,464 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-08 15:52:05,465 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-08 15:52:05,466 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-08 15:52:05,477 - INFO - Starting Flask app on port 5000
+2025-04-08 15:52:05,511 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-08 15:52:05,511 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-08 17:13:12,549 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-08 17:13:12,574 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-08 17:13:12,583 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-08 17:13:12,583 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-08 17:13:12,583 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-08 17:13:12,622 - INFO - Starting Flask app on port 5000
+2025-04-08 17:13:12,946 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.47.152:5000
+2025-04-08 17:13:12,946 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 08:11:27,050 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-09 08:11:27,095 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-09 08:11:27,096 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-09 08:11:27,096 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-09 08:11:27,097 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-09 08:11:27,105 - INFO - Starting Flask app on port 5000
+2025-04-09 08:11:27,290 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://127.0.0.1:5000
+2025-04-09 08:11:27,290 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-09 08:15:25,976 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-09 08:15:25,977 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-09 08:15:25,977 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-09 08:15:25,977 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-09 08:15:25,978 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-09 08:15:25,983 - INFO - Starting Flask app on port 5000
+2025-04-09 08:15:27,279 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.47.152:5000
+2025-04-09 08:15:27,280 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 01:38:13,536 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-11 01:38:13,588 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-11 01:38:13,589 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-11 01:38:13,590 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-11 01:38:13,590 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-11 01:38:13,591 - INFO - Loaded JMETER_PATH from config.json: C:/apache-jmeter-5.6.3/bin
+2025-04-11 01:38:13,608 - INFO - Starting Flask app on port 5000
+2025-04-11 01:38:14,917 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.47.152:5000
+2025-04-11 01:38:14,917 - INFO - [33mPress CTRL+C to quit[0m

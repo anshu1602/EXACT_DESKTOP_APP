@@ -1,0 +1,69 @@
+/* E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\frontend\src\pages\popup.css */
+
+/* Overlay: Semi-transparent dark background covering the entire screen */
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.5); /* Semi-transparent dark background */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 50;
+}
+
+/* Popup Container: White rounded box in the center */
+.welcome-popup {
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  width: 400px; /* Adjust width as per screenshot */
+  padding: 20px;
+  text-align: center;
+}
+
+/* Popup Header: Light gray background with uppercase text */
+.popup-header {
+  background: #f5f5f5; /* Light gray background */
+  padding: 10px;
+  border-radius: 5px 5px 0 0;
+}
+
+.popup-header h1 {
+  font-size: 24px;
+  font-weight: bold;
+  color: #333;
+  text-transform: uppercase; /* Uppercase text */
+  margin: 0;
+}
+
+/* Popup Content: Centered text */
+.popup-content {
+  padding: 20px;
+}
+
+.popup-content p {
+  font-size: 16px;
+  color: #666;
+  margin: 10px 0;
+}
+
+/* Continue Button: Blue button, uppercase, right-aligned */
+.continue-button {
+  background: #007bff; /* Blue background */
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  font-size: 16px;
+  font-weight: bold;
+  text-transform: uppercase; /* Uppercase text */
+  cursor: pointer;
+  transition: background 0.3s ease;
+}
+
+.continue-button:hover {
+  background: #0056b3; /* Darker blue on hover */
+}

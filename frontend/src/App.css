@@ -1,0 +1,39 @@
+#wrapper {
+  display: flex;
+  min-height: calc(100vh - 80px); /* Adjust for header and footer */
+  overflow-x: hidden; /* Prevent horizontal scroll */
+}
+
+.page-sidebar + div {
+  margin-left: 50px; /* Match new sidebar width */
+  padding: 15px;
+  flex: 1;
+  overflow-y: auto;
+  overflow-x: hidden; /* Prevent horizontal scroll */
+  background: #f0f2f5; /* Light background */
+}
+
+/* Responsive Adjustments */
+@media (max-width: 1366px) {
+  .page-sidebar + div {
+    margin-left: 45px;
+    padding: 10px;
+  }
+}
+
+@media (max-width: 1024px) {
+  .page-sidebar + div {
+    margin-left: 40px;
+    padding: 8px;
+  }
+}
+
+@media (max-width: 768px) {
+  .page-sidebar + div {
+    margin-left: 0; /* Full width on small screens */
+    padding: 5px;
+  }
+  .page-sidebar {
+    display: none; /* Hide sidebar on very small screens if needed */
+  }
+}

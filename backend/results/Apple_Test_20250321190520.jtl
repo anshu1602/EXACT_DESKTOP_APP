@@ -1,0 +1,2 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1742564136840,38,Apple,Non HTTP response code: java.net.UnknownHostException,Non HTTP response message: No such host is known (apple.com),Thread Group 1-1,text,false,,2524,0,1,1,http://apple.com/,0,0,38

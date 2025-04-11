@@ -1,0 +1,103 @@
+2025-04-11 01:35:29,505 INFO o.a.j.u.JMeterUtils: Setting Locale to en_EN
+2025-04-11 01:35:29,547 INFO o.a.j.JMeter: Loading user properties from: C:\apache-jmeter-5.6.3\bin\user.properties
+2025-04-11 01:35:29,560 INFO o.a.j.JMeter: Loading system properties from: C:\apache-jmeter-5.6.3\bin\system.properties
+2025-04-11 01:35:29,568 INFO o.a.j.JMeter: Copyright (c) 1998-2024 The Apache Software Foundation
+2025-04-11 01:35:29,568 INFO o.a.j.JMeter: Version 5.6.3
+2025-04-11 01:35:29,568 INFO o.a.j.JMeter: java.version=17.0.14
+2025-04-11 01:35:29,568 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2025-04-11 01:35:29,568 INFO o.a.j.JMeter: os.name=Windows 11
+2025-04-11 01:35:29,568 INFO o.a.j.JMeter: os.arch=amd64
+2025-04-11 01:35:29,568 INFO o.a.j.JMeter: os.version=10.0
+2025-04-11 01:35:29,568 INFO o.a.j.JMeter: file.encoding=Cp1252
+2025-04-11 01:35:29,568 INFO o.a.j.JMeter: java.awt.headless=true
+2025-04-11 01:35:29,569 INFO o.a.j.JMeter: Max memory     =1073741824
+2025-04-11 01:35:29,569 INFO o.a.j.JMeter: Available Processors =4
+2025-04-11 01:35:29,577 INFO o.a.j.JMeter: Default Locale=English (EN)
+2025-04-11 01:35:29,577 INFO o.a.j.JMeter: JMeter  Locale=English (EN)
+2025-04-11 01:35:29,577 INFO o.a.j.JMeter: JMeterHome=C:\apache-jmeter-5.6.3
+2025-04-11 01:35:29,577 INFO o.a.j.JMeter: user.dir  =E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend
+2025-04-11 01:35:29,578 INFO o.a.j.JMeter: PWD       =E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend
+2025-04-11 01:35:29,586 INFO o.a.j.JMeter: IP: 192.168.96.1 Name: DESKTOP-NSISDIO FullName: DESKTOP-NSISDIO.mshome.net
+2025-04-11 01:35:29,610 INFO o.a.j.s.FileServer: Default base='E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend'
+2025-04-11 01:35:29,613 INFO o.a.j.s.FileServer: Set new base='E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files'
+2025-04-11 01:35:30,033 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2025-04-11 01:35:30,097 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2025-04-11 01:35:30,103 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2025-04-11 01:35:30,114 INFO o.a.j.s.SaveService: Loading file: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files\testplan.jmx
+2025-04-11 01:35:30,270 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-04-11 01:35:30,271 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-04-11 01:35:30,271 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-04-11 01:35:30,271 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2025-04-11 01:35:30,271 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2025-04-11 01:35:30,271 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2025-04-11 01:35:30,300 INFO o.a.j.JMeter: Creating summariser <summary>
+2025-04-11 01:35:30,315 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2025-04-11 01:35:30,317 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-04-11 01:35:30,317 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2025-04-11 01:35:30,330 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2025-04-11 01:35:30,330 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2025-04-11 01:35:30,452 INFO o.a.j.JMeter: Running test (1744315530452)
+2025-04-11 01:35:30,472 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : Thread Group
+2025-04-11 01:35:30,473 INFO o.a.j.e.StandardJMeterEngine: Starting 1 threads for group Thread Group.
+2025-04-11 01:35:30,473 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2025-04-11 01:35:30,473 INFO o.a.j.t.ThreadGroup: Starting thread group... number=1 threads=1 ramp-up=1 delayedStart=false
+2025-04-11 01:35:30,477 INFO o.a.j.t.ThreadGroup: Started thread group number 1
+2025-04-11 01:35:30,477 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2025-04-11 01:35:30,480 INFO o.a.j.t.JMeterThread: Thread started: Thread Group 1-1
+2025-04-11 01:35:30,495 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = DESKTOP-NSISDIO
+2025-04-11 01:35:30,502 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2025-04-11 01:35:30,503 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2025-04-11 01:35:30,503 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to UTF-8
+2025-04-11 01:35:30,503 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2025-04-11 01:35:30,503 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2025-04-11 01:35:30,915 INFO o.a.j.p.h.s.h.LazyLayeredConnectionSocketFactory: Setting up HTTPS TrustAll Socket Factory
+2025-04-11 01:35:30,927 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2025-04-11 01:35:30,927 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2025-04-11 01:35:31,083 INFO o.a.j.u.SSLManager: JmeterKeyStore Location:  type JKS
+2025-04-11 01:35:31,088 INFO o.a.j.u.SSLManager: KeyStore created OK
+2025-04-11 01:35:31,088 WARN o.a.j.u.SSLManager: Keystore file not found, loading empty keystore
+2025-04-11 01:35:32,687 INFO o.a.j.r.Summariser: summary +      1 in 00:00:02 =    0.4/s Avg:  2096 Min:  2096 Max:  2096 Err:     0 (0.00%) Active: 1 Started: 1 Finished: 0
+2025-04-11 01:35:32,688 INFO o.a.j.t.JMeterThread: Thread is done: Thread Group 1-1
+2025-04-11 01:35:32,688 INFO o.a.j.t.JMeterThread: Thread finished: Thread Group 1-1
+2025-04-11 01:35:32,694 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2025-04-11 01:35:32,697 INFO o.a.j.r.Summariser: summary =      1 in 00:00:02 =    0.4/s Avg:  2096 Min:  2096 Max:  2096 Err:     0 (0.00%)
+2025-04-11 01:35:34,284 - INFO - 127.0.0.1 - - [11/Apr/2025 01:35:34] "POST /run-test/testplan.jmx HTTP/1.1" 200 -
+2025-04-11 01:35:40,020 - INFO - Saved JTL file for analysis: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads\testplan_20250325161913.jtl
+2025-04-11 01:35:40,028 - INFO - Starting JTL analysis for file: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads\testplan_20250325161913.jtl
+2025-04-11 01:35:52,671 - INFO - JTL analysis completed successfully
+2025-04-11 01:35:52,672 - INFO - JTL analysis completed for file: testplan_20250325161913.jtl
+2025-04-11 01:35:52,673 - INFO - 127.0.0.1 - - [11/Apr/2025 01:35:52] "POST /analyzeJTL HTTP/1.1" 200 -
+2025-04-11 01:37:32,044 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-11 01:37:32,044 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-11 01:37:32,045 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-11 01:37:32,045 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-11 01:37:32,045 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-11 01:37:32,046 - INFO - Loaded JMETER_PATH from config.json: C:/apache-jmeter-5.6.3/bin
+2025-04-11 01:37:32,061 - INFO - Starting Flask app on port 5000
+2025-04-11 01:37:33,399 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.47.152:5000
+2025-04-11 01:37:33,400 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-11 01:38:35,181 - INFO - Saved JTL file for analysis: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads\testplan_20250325161913.jtl
+2025-04-11 01:38:35,182 - INFO - Starting JTL analysis for file: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads\testplan_20250325161913.jtl
+2025-04-11 01:38:50,799 - INFO - JTL analysis completed successfully
+2025-04-11 01:38:50,800 - INFO - JTL analysis completed for file: testplan_20250325161913.jtl
+2025-04-11 01:38:50,802 - INFO - 127.0.0.1 - - [11/Apr/2025 01:38:50] "POST /analyzeJTL HTTP/1.1" 200 -
+2025-04-11 01:47:27,060 - INFO - 127.0.0.1 - - [11/Apr/2025 01:47:27] "OPTIONS /sendEmail HTTP/1.1" 200 -
+2025-04-11 01:47:27,159 - INFO - Emails to send: ['anshuraj110011@gmail.com']
+2025-04-11 01:47:32,492 - INFO - Email sent to 1 recipients.
+2025-04-11 01:47:32,492 - INFO - Email sent successfully
+2025-04-11 01:47:32,493 - INFO - 127.0.0.1 - - [11/Apr/2025 01:47:32] "POST /sendEmail HTTP/1.1" 200 -
+2025-04-11 01:50:16,761 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\uploads
+2025-04-11 01:50:16,762 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\jmx_files
+2025-04-11 01:50:16,762 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\results
+2025-04-11 01:50:16,762 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\static
+2025-04-11 01:50:16,762 - INFO - Created directory if not exists: E:\EXACT_DESKTOP_APP-20250324T050853Z-001\EXACT_DESKTOP_APP\backend\licenses
+2025-04-11 01:50:16,763 - INFO - Loaded JMETER_PATH from config.json: C:/apache-jmeter-5.6.3/bin
+2025-04-11 01:50:16,768 - INFO - Starting Flask app on port 5000
+2025-04-11 01:50:18,157 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://192.168.47.152:5000
+2025-04-11 01:50:18,158 - INFO - [33mPress CTRL+C to quit[0m

@@ -1,0 +1,114 @@
+{
+  "name": "JmeterAI",
+  "version": "0.1.0",
+  "description": "Testing AI Tool",
+  "author": "JAI Engineers",
+  "private": true,
+  "main": "main.js",
+  "homepage": "./",
+  "dependencies": {
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "@mui/icons-material": "^6.4.7",
+    "@mui/material": "^6.4.7",
+    "@testing-library/dom": "^10.4.0",
+    "@testing-library/jest-dom": "^6.6.3",
+    "@testing-library/react": "^16.2.0",
+    "@testing-library/user-event": "^13.5.0",
+    "concurrently": "^9.1.2",
+    "lucide-react": "^0.476.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0",
+    "react-icons": "^5.5.0",
+    "react-markdown": "^9.0.0",
+    "react-router-dom": "^6.16.0",
+    "wait-on": "^8.0.2",
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "concurrently": "^9.1.2",
+    "cross-env": "^7.0.3",
+    "electron": "^35.0.2",
+    "electron-builder": "^25.1.8",
+    "react-scripts": "^5.0.1",
+    "wait-on": "^8.0.2",
+    "webpack": "^5.98.0"
+  },
+  "scripts": {
+    "start": "concurrently \"cross-env BROWSER=none npm run start-frontend\" \"npm run start-backend\"",
+    "start-frontend": "react-scripts start",
+    "start-backend": "cd ../backend && python app.py",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "electron-dev": "electron .",
+    "electron:serve": "concurrently -k \"cross-env BROWSER=none npm start\" \"npm run electron:start\"",
+    "electron:build": "npm run build && electron-builder -c.extraMetadata.main=main.js --win --x64",
+    "electron:build-portable": "npm run build && electron-builder --win portable --x64",
+    "electron:start": "wait-on http://127.0.0.1:3000 && electron .",
+    "windows-release": "electron-builder --win --x64 --publish never",
+    "windows-build": "electron-builder --win --x64",
+    "build-electron": "electron-builder"
+  },
+  "build": {
+    "extends": null,
+    "appId": "com.electron.jmeterai",
+    "productName": "JMeterAI",
+    "files": [
+      "build/**/*",
+      "main.js",
+      "preload.js",
+      "node_modules/**/*",
+      "package.json",
+      "backend/**/*"
+    ],
+    "extraResources": [
+      {
+        "from": "../backend/dist/JmeterAI.exe", 
+        "to": "JmeterAI.exe"
+      }
+    ],
+    "directories": {
+      "buildResources": "assets",
+      "output": "dist"
+    },
+    "win": {
+      "icon": "public/JmeterAI.ico",
+      "target": [
+        "portable",
+        "nsis"
+      ],
+      "forceCodeSigning": false
+    },
+    "mac": {
+      "target": "dmg",
+      "icon": "iconcompany.icns"
+    },
+    "linux": {
+      "target": [
+        "AppImage",
+        "deb"
+      ],
+      "icon": "iconcompany.png"
+    },
+    "extraMetadata": {
+      "main": "main.js"
+    },
+    "asar": true,
+    "asarUnpack": [
+      "../backend/dist/JmeterAI.exe" 
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}

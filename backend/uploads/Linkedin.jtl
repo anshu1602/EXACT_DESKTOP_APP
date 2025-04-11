@@ -1,0 +1,28 @@
+timeStamp,elapsed,label,responseCode,responseMessage,threadName,dataType,success,failureMessage,bytes,sentBytes,grpThreads,allThreads,URL,Latency,IdleTime,Connect
+1739265091024,1129,Linkedin,200,OK,Thread Group 1-1,text,true,,143048,238,2,2,https://www.linkedin.com/hp,309,0,29
+1739265091024,309,Linkedin-0,301,Moved Permanently,Thread Group 1-1,,true,,617,118,2,2,http://www.linkedin.com/,309,0,29
+1739265091335,818,Linkedin-1,200,OK,Thread Group 1-1,text,true,,142431,120,2,2,https://www.linkedin.com/hp,709,0,73
+1739265092029,939,Linkedin,200,OK,Thread Group 1-2,text,true,,143430,238,2,2,https://www.linkedin.com/hp,306,0,27
+1739265092029,306,Linkedin-0,301,Moved Permanently,Thread Group 1-2,,true,,617,118,2,2,http://www.linkedin.com/,306,0,27
+1739265092336,632,Linkedin-1,200,OK,Thread Group 1-2,text,true,,142813,120,2,2,https://www.linkedin.com/hp,418,0,70
+1739265092156,970,Linkedin,200,OK,Thread Group 1-1,text,true,,143611,238,3,3,https://www.linkedin.com/hp,239,0,0
+1739265092156,239,Linkedin-0,301,Moved Permanently,Thread Group 1-1,,true,,617,118,3,3,http://www.linkedin.com/,239,0,0
+1739265092395,731,Linkedin-1,200,OK,Thread Group 1-1,text,true,,142994,120,3,3,https://www.linkedin.com/hp,347,0,0
+1739265093126,679,Linkedin,200,OK,Thread Group 1-1,text,true,,143188,238,3,3,https://www.linkedin.com/hp,234,0,0
+1739265093126,234,Linkedin-0,301,Moved Permanently,Thread Group 1-1,,true,,617,118,3,3,http://www.linkedin.com/,234,0,0
+1739265093360,445,Linkedin-1,200,OK,Thread Group 1-1,text,true,,142571,120,3,3,https://www.linkedin.com/hp,357,0,0
+1739265092969,848,Linkedin,200,OK,Thread Group 1-2,text,true,,143611,238,2,2,https://www.linkedin.com/hp,229,0,0
+1739265092969,229,Linkedin-0,301,Moved Permanently,Thread Group 1-2,,true,,617,118,2,2,http://www.linkedin.com/,229,0,0
+1739265093198,619,Linkedin-1,200,OK,Thread Group 1-2,text,true,,142994,120,2,2,https://www.linkedin.com/hp,354,0,0
+1739265093029,1019,Linkedin,200,OK,Thread Group 1-3,text,true,,143188,238,2,2,https://www.linkedin.com/hp,249,0,20
+1739265093029,249,Linkedin-0,301,Moved Permanently,Thread Group 1-3,,true,,617,118,2,2,http://www.linkedin.com/,249,0,20
+1739265093279,769,Linkedin-1,200,OK,Thread Group 1-3,text,true,,142571,120,2,2,https://www.linkedin.com/hp,538,0,100
+1739265093818,773,Linkedin,200,OK,Thread Group 1-2,text,true,,143229,238,2,2,https://www.linkedin.com/hp,226,0,0
+1739265093818,226,Linkedin-0,301,Moved Permanently,Thread Group 1-2,,true,,617,118,2,2,http://www.linkedin.com/,226,0,0
+1739265094044,547,Linkedin-1,200,OK,Thread Group 1-2,text,true,,142612,120,2,2,https://www.linkedin.com/hp,341,0,0
+1739265094049,1491,Linkedin,200,OK,Thread Group 1-3,text,true,,143007,238,1,1,https://www.linkedin.com/hp,330,0,0
+1739265094049,330,Linkedin-0,301,Moved Permanently,Thread Group 1-3,,true,,617,118,1,1,http://www.linkedin.com/,330,0,0
+1739265094380,1160,Linkedin-1,200,OK,Thread Group 1-3,text,true,,142390,120,1,1,https://www.linkedin.com/hp,459,0,0
+1739265095541,630,Linkedin,200,OK,Thread Group 1-3,text,true,,143007,238,1,1,https://www.linkedin.com/hp,228,0,0
+1739265095541,228,Linkedin-0,301,Moved Permanently,Thread Group 1-3,,true,,617,118,1,1,http://www.linkedin.com/,228,0,0
+1739265095769,402,Linkedin-1,200,OK,Thread Group 1-3,text,true,,142390,120,1,1,https://www.linkedin.com/hp,336,0,0

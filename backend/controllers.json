@@ -1,0 +1,78 @@
+{
+  "TestPlan": {
+    "guiclass": "TestPlanGui",
+    "xml": "<TestPlan guiclass=\"TestPlanGui\" testclass=\"TestPlan\" testname=\"Test Plan\">\n  <elementProp name=\"TestPlan.user_defined_variables\" elementType=\"Arguments\" guiclass=\"ArgumentsPanel\" testclass=\"Arguments\" testname=\"User Defined Variables\">\n    <collectionProp name=\"Arguments.arguments\"/>\n  </elementProp>\n</TestPlan>"
+  },
+  "ThreadGroup": {
+    "guiclass": "ThreadGroupGui",
+    "xml": "<ThreadGroup guiclass=\"ThreadGroupGui\" testclass=\"ThreadGroup\" testname=\"Thread Group\">\n  <intProp name=\"ThreadGroup.num_threads\">1</intProp>\n  <intProp name=\"ThreadGroup.ramp_time\">1</intProp>\n  <boolProp name=\"ThreadGroup.same_user_on_next_iteration\">true</boolProp>\n  <stringProp name=\"ThreadGroup.on_sample_error\">continue</stringProp>\n  <elementProp name=\"ThreadGroup.main_controller\" elementType=\"LoopController\" guiclass=\"LoopControlPanel\" testclass=\"LoopController\" testname=\"Loop Controller\">\n    <stringProp name=\"LoopController.loops\">1</stringProp>\n    <boolProp name=\"LoopController.continue_forever\">false</boolProp>\n  </elementProp>\n</ThreadGroup>"
+  },
+  "IfController": {
+    "guiclass": "IfControllerPanel",
+    "xml": "<IfController guiclass=\"IfControllerPanel\" testclass=\"IfController\" testname=\"If Controller\">\n  <stringProp name=\"IfController.condition\"></stringProp>\n  <boolProp name=\"IfController.evaluateAll\">false</boolProp>\n  <boolProp name=\"IfController.useExpression\">true</boolProp>\n</IfController>"
+  },
+  "TransactionController": {
+    "guiclass": "TransactionControllerGui",
+    "xml": "<TransactionController guiclass=\"TransactionControllerGui\" testclass=\"TransactionController\" testname=\"Transaction Controller\">\n  <boolProp name=\"TransactionController.includeTimers\">false</boolProp>\n</TransactionController>"
+  },
+  "LoopController": {
+    "guiclass": "LoopControlPanel",
+    "xml": "<LoopController guiclass=\"LoopControlPanel\" testclass=\"LoopController\" testname=\"Loop Controller\">\n  <stringProp name=\"LoopController.loops\">1</stringProp>\n</LoopController>"
+  },
+  "WhileController": {
+    "guiclass": "WhileControllerGui",
+    "xml": "<WhileController guiclass=\"WhileControllerGui\" testclass=\"WhileController\" testname=\"While Controller\">\n  <stringProp name=\"WhileController.condition\"></stringProp>\n</WhileController>"
+  },
+  "CriticalSectionController": {
+    "guiclass": "CriticalSectionControllerGui",
+    "xml": "<CriticalSectionController guiclass=\"CriticalSectionControllerGui\" testclass=\"CriticalSectionController\" testname=\"Critical Section Controller\">\n  <stringProp name=\"CriticalSectionController.lockName\">global_lock</stringProp>\n</CriticalSectionController>"
+  },
+  "ForeachController": {
+    "guiclass": "ForeachControlPanel",
+    "xml": "<ForeachController guiclass=\"ForeachControlPanel\" testclass=\"ForeachController\" testname=\"ForEach Controller\">\n  <stringProp name=\"ForeachController.inputVal\"></stringProp>\n  <stringProp name=\"ForeachController.returnVal\"></stringProp>\n  <boolProp name=\"ForeachController.useSeparator\">true</boolProp>\n</ForeachController>"
+  },
+  "IncludeController": {
+    "guiclass": "IncludeControllerGui",
+    "xml": "<IncludeController guiclass=\"IncludeControllerGui\" testclass=\"IncludeController\" testname=\"Include Controller\"/>"
+  },
+  "InterleaveControl": {
+    "guiclass": "InterleaveControlGui",
+    "xml": "<InterleaveControl guiclass=\"InterleaveControlGui\" testclass=\"InterleaveControl\" testname=\"Interleave Controller\">\n  <intProp name=\"InterleaveControl.style\">1</intProp>\n  <boolProp name=\"InterleaveControl.accrossThreads\">false</boolProp>\n</InterleaveControl>"
+  },
+  "OnceOnlyController": {
+    "guiclass": "OnceOnlyControllerGui",
+    "xml": "<OnceOnlyController guiclass=\"OnceOnlyControllerGui\" testclass=\"OnceOnlyController\" testname=\"Once Only Controller\"/>"
+  },
+  "RandomController": {
+    "guiclass": "RandomControlGui",
+    "xml": "<RandomController guiclass=\"RandomControlGui\" testclass=\"RandomController\" testname=\"Random Controller\">\n  <intProp name=\"InterleaveControl.style\">1</intProp>\n</RandomController>"
+  },
+  "RandomOrderController": {
+    "guiclass": "RandomOrderControllerGui",
+    "xml": "<RandomOrderController guiclass=\"RandomOrderControllerGui\" testclass=\"RandomOrderController\" testname=\"Random Order Controller\"/>"
+  },
+  "RecordingController": {
+    "guiclass": "RecordController",
+    "xml": "<RecordingController guiclass=\"RecordController\" testclass=\"RecordingController\" testname=\"Recording Controller\"/>"
+  },
+  "RunTime": {
+    "guiclass": "RunTimeGui",
+    "xml": "<RunTime guiclass=\"RunTimeGui\" testclass=\"RunTime\" testname=\"Runtime Controller\">\n  <stringProp name=\"RunTime.seconds\">1</stringProp>\n</RunTime>"
+  },
+  "GenericController": {
+    "guiclass": "LogicControllerGui",
+    "xml": "<GenericController guiclass=\"LogicControllerGui\" testclass=\"GenericController\" testname=\"Simple Controller\"/>"
+  },
+  "ThroughputController": {
+    "guiclass": "ThroughputControllerGui",
+    "xml": "<ThroughputController guiclass=\"ThroughputControllerGui\" testclass=\"ThroughputController\" testname=\"Throughput Controller\">\n  <intProp name=\"ThroughputController.style\">1</intProp>\n  <boolProp name=\"ThroughputController.perThread\">false</boolProp>\n  <intProp name=\"ThroughputController.maxThroughput\">1</intProp>\n  <FloatProperty>\n    <name>ThroughputController.percentThroughput</name>\n    <value>1.0</value>\n    <savedValue>0.0</savedValue>\n  </FloatProperty>\n</ThroughputController>"
+  },
+  "ModuleController": {
+    "guiclass": "ModuleControllerGui",
+    "xml": "<ModuleController guiclass=\"ModuleControllerGui\" testclass=\"ModuleController\" testname=\"Module Controller\"/>"
+  },
+  "SwitchController": {
+    "guiclass": "SwitchControllerGui",
+    "xml": "<SwitchController guiclass=\"SwitchControllerGui\" testclass=\"SwitchController\" testname=\"Switch Controller\">\n  <stringProp name=\"SwitchController.value\"></stringProp>\n</SwitchController>"
+  }
+}
